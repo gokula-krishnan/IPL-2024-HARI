@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/IPL-2024-HARI/precache-manifest.d797ccb0f0406f8dca9da6cb26e86b53.js"
+  "/IPL-2024-UI/precache-manifest.d552563fa88a7879f76dbed1f8d570d9.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/IPL-2024-HARI/index.html", {
+workbox.routing.registerNavigationRoute("/IPL-2024-UI/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
