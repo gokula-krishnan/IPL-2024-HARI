@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3014258b8527b3a8450e",
+    "revision": "108564f1f32188e0bb45",
     "url": "/IPL-2024-HARI/static/css/main.eca6c321.chunk.css"
   },
   {
-    "revision": "3014258b8527b3a8450e",
-    "url": "/IPL-2024-HARI/static/js/main.3014258b.chunk.js"
+    "revision": "108564f1f32188e0bb45",
+    "url": "/IPL-2024-HARI/static/js/main.108564f1.chunk.js"
   },
   {
     "revision": "e6194d6ef6cdc19d802c",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/IPL-2024-HARI/static/js/2.dfd2890e.chunk.js"
   },
   {
-    "revision": "6e330a93e7a782716c9f087709086766",
+    "revision": "61b87dfee6bc6eb774c223b85c4deee1",
     "url": "/IPL-2024-HARI/index.html"
   }
 ];

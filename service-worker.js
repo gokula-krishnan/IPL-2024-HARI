@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/IPL-2024-HARI/precache-manifest.d797ccb0f0406f8dca9da6cb26e86b53.js"
+  "/IPL-2024-HARI/precache-manifest.c426294ac37335835901e2713e3c77fe.js"
 );
 
 workbox.clientsClaim();
